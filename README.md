@@ -12,7 +12,7 @@
 
 <table>
 <ul>
-  <li>hhhh </li>
+  <li>npm install discord</li>
 </ul>
 
 </table>
