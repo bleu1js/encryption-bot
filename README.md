@@ -1,6 +1,6 @@
 <html>
   <head>
-  <link rel=
+  
   </head>
 <body>
 <style>
