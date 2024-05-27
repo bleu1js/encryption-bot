@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="icon" href="picsart_24-06_2P5-10-56-54-582"/>
+    <link rel="icon" href="picsart_24-06_2P5-10-56-54-582%20(1).jpg"/>
   </head>
 <body>
 <style>
