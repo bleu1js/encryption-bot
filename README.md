@@ -12,7 +12,9 @@
 
 <table>
 <ul>
-  <li><h1>npm install discord</h1></li>
+  <li><h1>before running your bot must you use this cod in consol or shell if you cant writing on consol"npm install discord.js@12
+</h1></li>
+ <li><h1>dont forget replace"YOUR_TOKEN_BOT" WITH TOKEN BOT</h1></li>
 </ul>
 
 </table>
