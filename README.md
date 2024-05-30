@@ -17,7 +17,7 @@
  <li><h3>dont forget replace"YOUR_TOKEN_BOT" WITH TOKEN BOT</h3></li>
 </ul>
 <h2>project file</h2>
-<a download href="fie">download project file</a>
+<a download href="https://github.com/bleu1js/encryption-bot/blob/main/index%20(4).js">download project file</a>
 <table>
   <tr>
     <td>
