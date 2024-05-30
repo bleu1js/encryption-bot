@@ -17,7 +17,7 @@
  <li><h3>dont forget replace"YOUR_TOKEN_BOT" WITH TOKEN BOT</h3></li>
 </ul>
 <h2>project file</h2>
-<a download href="index (4).js">download project file</a>
+<a download href="index (4).js"><h2>download project file</h2></a>
 <table>
   <tr>
     <td>
