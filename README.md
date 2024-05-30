@@ -129,7 +129,7 @@ const mySecret = process.env['token bot']
 </td>
   </tr>
 </table>
-<A href="https://bleu1js.github.io/Blue._.js/"><img src="Picsart_24-05-17_11-16-44-661.jpg"></A>
+<A href="https://bleu1js.github.io/Blue._.js/"><img src="Picsart_24-05-17_11-16-44-661.jpg"> heigh="45" width="45"</A>
 
 
 </body>
